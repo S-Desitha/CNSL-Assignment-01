@@ -1,0 +1,22 @@
+[2025-04-06 05:59:58] Message 1 from service1
+[2025-04-06 05:59:58] Failed to send: HTTPConnectionPool(host='service2', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x72bb7f683a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2025-04-06 06:00:00] Message 2 from service1
+[2025-04-06 06:00:02] Message 3 from service1
+[2025-04-06 06:00:04] Message 4 from service1
+[2025-04-06 06:00:06] Message 5 from service1
+[2025-04-06 06:00:08] Message 6 from service1
+[2025-04-06 06:00:10] Message 7 from service1
+[2025-04-06 06:00:12] Message 8 from service1
+[2025-04-06 06:00:14] Message 9 from service1
+[2025-04-06 06:00:16] Message 10 from service1
+[2025-04-06 06:00:18] Message 11 from service1
+[2025-04-06 06:00:20] Message 12 from service1
+[2025-04-06 06:00:22] Message 13 from service1
+[2025-04-06 06:00:24] Message 14 from service1
+[2025-04-06 06:00:26] Message 15 from service1
+[2025-04-06 06:00:28] Message 16 from service1
+[2025-04-06 06:00:30] Message 17 from service1
+[2025-04-06 06:00:32] Message 18 from service1
+[2025-04-06 06:00:34] Message 19 from service1
+[2025-04-06 06:00:36] Message 20 from service1
+[2025-04-06 06:00:38] Sending STOP
