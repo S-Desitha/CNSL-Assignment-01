@@ -1,0 +1,21 @@
+[2025-04-06T06:00:00.704Z] Message 2 from service1
+[2025-04-06T06:00:02.714Z] Message 3 from service1
+[2025-04-06T06:00:04.723Z] Message 4 from service1
+[2025-04-06T06:00:06.732Z] Message 5 from service1
+[2025-04-06T06:00:08.741Z] Message 6 from service1
+[2025-04-06T06:00:10.749Z] Message 7 from service1
+[2025-04-06T06:00:12.757Z] Message 8 from service1
+[2025-04-06T06:00:14.765Z] Message 9 from service1
+[2025-04-06T06:00:16.774Z] Message 10 from service1
+[2025-04-06T06:00:18.783Z] Message 11 from service1
+[2025-04-06T06:00:20.790Z] Message 12 from service1
+[2025-04-06T06:00:22.797Z] Message 13 from service1
+[2025-04-06T06:00:24.806Z] Message 14 from service1
+[2025-04-06T06:00:26.815Z] Message 15 from service1
+[2025-04-06T06:00:28.823Z] Message 16 from service1
+[2025-04-06T06:00:30.831Z] Message 17 from service1
+[2025-04-06T06:00:32.839Z] Message 18 from service1
+[2025-04-06T06:00:34.846Z] Message 19 from service1
+[2025-04-06T06:00:36.854Z] Message 20 from service1
+[2025-04-06T06:00:38.862Z] STOP
+[2025-04-06T06:00:38.863Z] Received STOP. Shutting down.
